@@ -241,6 +241,8 @@ Proyek ini tersedia untuk penggunaan akademis dan penelitian.
 ## 📞 Kontak dan Support
 
 Untuk pertanyaan, silakan buat issue di repository GitHub ini.
+firmanwijayakusuma22@gmail.com
+firmanwijayakusuma22@gmail.com
 
 ---
 
